@@ -1,0 +1,7 @@
+BODY {
+  position: relative;
+  padding-top: 70px;
+}
+#featured-speaker-section .hidden-xs h3 {
+    margin-top: 0;
+}
