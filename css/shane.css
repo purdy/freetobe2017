@@ -6,7 +6,7 @@ BODY {
     margin-top: 0;
 }
 #hero-unit {
-  background-image:url('img/ShaneClaiborne1.jpg');
+  background-image:url('../img/ShaneClaiborne1.jpg');
   background-size:cover;
 }
 #mobile-hero-bug {
