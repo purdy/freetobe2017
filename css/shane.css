@@ -41,6 +41,7 @@ BODY {
 @media (min-width: 768px) {
   #hero-unit { height: 600px;}
 }
+#mapid {height: 450px;}
 /*
 #hero-text {
   position: relative;
