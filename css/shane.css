@@ -5,8 +5,8 @@ BODY {
 #featured-speaker-section .hidden-xs h3 {
     margin-top: 0;
 }
-#hero-unit {
-  background-image:url('../img/ShaneClaiborne1.jpg');
+#desktop-hero {
+  background-image:url('../img/ftb-hp-hero.png');
   background-size:cover;
 }
 #mobile-hero-bug {
@@ -42,6 +42,7 @@ BODY {
   #hero-unit { height: 600px;}
 }
 #mapid {height: 450px;}
+.navbar-brand {padding:0;}
 /*
 #hero-text {
   position: relative;
