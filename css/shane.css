@@ -43,6 +43,7 @@ BODY {
 }
 #mapid {height: 450px;}
 .navbar-brand {padding:0;}
+.header-space {margin-bottom: 2em;}
 /*
 #hero-text {
   position: relative;
